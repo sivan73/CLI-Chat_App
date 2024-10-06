@@ -17,5 +17,5 @@ This application follows a structured architecture, ensuring code cleanliness an
 - Maven
 ### Clone the Repository
 ```bash
-git clone https://github.com/sivan73/CLI-Chat_App.git
+git clone https://github.com/sivan73/CLICHATAPP.git
 cd cli-chat-app
