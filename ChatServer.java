@@ -38,7 +38,7 @@ public class ChatServer extends WebSocketServer {
     }
 
     public static void main(String[] args) {
-        int port = 8887; // Default port
+        int port = 8887; 
         ChatServer server = new ChatServer(port);
         server.start();  // Start the server without arguments
     }
