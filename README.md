@@ -9,8 +9,6 @@ Built using Java and the WebSocket protocol, this application allows multiple us
 ## Technology Stack
 - **Backend**: Java
 - **WebSocket Library**: Java-WebSocket
-- **Build Tool**: Maven
-- **Testing Framework**: JUnit (optional)
 ## Architecture
 This application follows a structured architecture, ensuring code cleanliness and maintainability. The code is organized to promote separation of concerns, making it easier to manage and extend.
 ## Installation
