@@ -1,3 +1,5 @@
+## Important!! This repository is no longer updated and maintained, so please visit https://github.com/sivan73/CLICHATAPP for the updated repository :)
+
 CLI Chat Application with Websockets
 ## Overview
 The CLI Chat Application is a real-time communication tool designed to facilitate interactive conversations via a Command Line Interface (CLI). 
